@@ -1,0 +1,1 @@
+bing -> 1, program -> 1, a -> 2, hua -> 2, pen -> 1, think -> 1, useful -> 1, meet -> 1, hello -> 3, wang -> 1, name -> 5, have -> 1, your -> 1, is -> 8, everyone -> 3, what -> 1, li -> 2, good -> 3, nice -> 1, popular -> 1, i -> 3, java -> 2, to -> 1, you -> 2, my -> 4, language -> 1, yong -> 1, scala -> 2, thank -> 1, morning -> 2, very -> 2, like -> 1, hu -> 1
